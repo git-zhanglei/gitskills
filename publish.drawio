@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T09:28:00.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="8WW1fUUOKuNcI5TsgP5O" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T02:37:22.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="yE6TkRxoq-17Z5atAFPZ" version="14.6.6" type="github">
   <diagram id="VvBguyoA1NxEOyyfGwUk" name="Page-1">
     <mxGraphModel dx="1298" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="HswgILT7rwCR9YleaQXq-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HswgILT7rwCR9YleaQXq-49" target="HswgILT7rwCR9YleaQXq-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HswgILT7rwCR9YleaQXq-49" value="灰度发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HswgILT7rwCR9YleaQXq-49" value="灰度发布" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="255" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HswgILT7rwCR9YleaQXq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HswgILT7rwCR9YleaQXq-51" target="HswgILT7rwCR9YleaQXq-2">
@@ -147,7 +147,7 @@
             <mxPoint x="930" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HswgILT7rwCR9YleaQXq-56" value="灰度配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HswgILT7rwCR9YleaQXq-56" value="灰度配置" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="255" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HswgILT7rwCR9YleaQXq-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HswgILT7rwCR9YleaQXq-60" target="HswgILT7rwCR9YleaQXq-61">
@@ -158,7 +158,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HswgILT7rwCR9YleaQXq-60" value="def前端应用&lt;br&gt;+ AntD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HswgILT7rwCR9YleaQXq-60" value="just assets应用&lt;br&gt;+ AntD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="-105" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HswgILT7rwCR9YleaQXq-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HswgILT7rwCR9YleaQXq-61" target="HswgILT7rwCR9YleaQXq-62">
